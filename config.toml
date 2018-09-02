@@ -1,0 +1,65 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "KSquared"
+theme = "beautifulhugo"
+
+metaDataFormat = "yaml"
+pygmentsStyle = "trac"
+pygmentsUseClasses = true
+pygmentsCodeFences = true
+pygmentsCodefencesGuessSyntax = true
+
+[Params]
+#  homeTitle = "Beautiful Hugo Theme" # Set a different text for the header on the home page
+  subtitle = "Never Ending "
+  logo = "img/avatar-icon.png"
+  favicon = "img/favicon.ico"
+  dateFormat = "January 2, 2006"
+  commit = false
+  rss = true
+  comments = true
+  readingTime = true
+  useHLJS = true
+  socialShare = true
+
+[Author]
+  name = "Khairul Anuar Ariff"
+  website = "yourwebsite.com"
+  email = "krollquink@gmail.com"
+  facebook = "username"
+  github = "username"
+  linkedin = "username"
+  stackoverflow = "users/XXXXXXX/username"
+  snapchat = "username"
+  instagram = "username"
+
+[menu]
+
+  [[menu.main]]
+    identifier = "ABOUT ME"
+    name = "ABOUT ME"
+    pre = "<i class='fa fa-heart'></i>"
+    url = "/aboutme"
+    weight = -110
+
+  [[menu.main]]
+    name = "BLOG"
+    pre = "<i class='fa fa-road'></i>"
+    url = "/blog/"
+    weight = -100
+
+  [[menu.main]]
+    name = "TUTORIAL"
+    pre = "<i class='fa fa-road'></i>"
+    url = "/tutorial/"
+    weight = -100
+
+[[menu.main]]
+    name = "Tags"
+    url = "tags"
+    weight = 3
+
+
+
+
+
