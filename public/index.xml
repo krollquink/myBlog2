@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>KSquared</title>
+    <link>http://khairulanuar.io.s3-website-ap-northeast-1.amazonaws.com/</link>
+    <description>Recent content on KSquared</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>krollquink@gmail.com (Khairul Anuar Ariff)</managingEditor>
+    <webMaster>krollquink@gmail.com (Khairul Anuar Ariff)</webMaster>
+    <lastBuildDate>Mon, 03 Sep 2018 11:18:23 +0900</lastBuildDate>
+    
+	<atom:link href="http://khairulanuar.io.s3-website-ap-northeast-1.amazonaws.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>First</title>
+      <link>http://khairulanuar.io.s3-website-ap-northeast-1.amazonaws.com/tutorial/first/</link>
+      <pubDate>Mon, 03 Sep 2018 11:18:23 +0900</pubDate>
+      <author>krollquink@gmail.com (Khairul Anuar Ariff)</author>
+      <guid>http://khairulanuar.io.s3-website-ap-northeast-1.amazonaws.com/tutorial/first/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>First</title>
+      <link>http://khairulanuar.io.s3-website-ap-northeast-1.amazonaws.com/blog/first/</link>
+      <pubDate>Mon, 03 Sep 2018 11:18:16 +0900</pubDate>
+      <author>krollquink@gmail.com (Khairul Anuar Ariff)</author>
+      <guid>http://khairulanuar.io.s3-website-ap-northeast-1.amazonaws.com/blog/first/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>My First</title>
+      <link>http://khairulanuar.io.s3-website-ap-northeast-1.amazonaws.com/post/my-first.post/</link>
+      <pubDate>Sat, 01 Sep 2018 12:24:08 +0900</pubDate>
+      <author>krollquink@gmail.com (Khairul Anuar Ariff)</author>
+      <guid>http://khairulanuar.io.s3-website-ap-northeast-1.amazonaws.com/post/my-first.post/</guid>
+      <description> Hello everyone </description>
+    </item>
+    
+    <item>
+      <title>Aboutme</title>
+      <link>http://khairulanuar.io.s3-website-ap-northeast-1.amazonaws.com/page/aboutme/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>krollquink@gmail.com (Khairul Anuar Ariff)</author>
+      <guid>http://khairulanuar.io.s3-website-ap-northeast-1.amazonaws.com/page/aboutme/</guid>
+      <description>My name is Khairul and i from JOHOR!</description>
+    </item>
+    
+  </channel>
+</rss>

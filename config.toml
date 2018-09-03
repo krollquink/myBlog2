@@ -1,6 +1,6 @@
 baseURL = "http://khairulanuar.io.s3-website-ap-northeast-1.amazonaws.com"
 languageCode = "en-us"
-title = "KSquared"
+title = "Khairul Anuar"
 theme = "beautifulhugo"
 
 pygmentsStyle = "trac"
@@ -29,29 +29,23 @@ pygmentsCodefencesGuessSyntax = true
   github = "username"
   linkedin = "username"
   stackoverflow = "users/XXXXXXX/username"
-  snapchat = "username"
-  instagram = "username"
 
 [menu]
 
-  [[menu.main]]
-    identifier = "ABOUT ME"
-    name = "ABOUT ME"
-    pre = "<i class='fa fa-heart'></i>"
-    url = "/aboutme"
-    weight = -110
+[[menu.main]]
+name = "ABOUT ME"
+url = "page/aboutme/"
+weight = 1
 
   [[menu.main]]
     name = "BLOG"
-    pre = "<i class='fa fa-road'></i>"
-    url = "/blog/"
-    weight = -100
+    url = "blog/"
+    weight = 2
 
   [[menu.main]]
     name = "TUTORIAL"
-    pre = "<i class='fa fa-road'></i>"
-    url = "/tutorial/"
-    weight = -100
+    url = "tutorial/"
+    weight = 3
 
 [[menu.main]]
     name = "Tags"

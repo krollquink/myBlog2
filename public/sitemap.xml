@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://khairulanuar.io.s3-website-ap-northeast-1.amazonaws.com/tutorial/</loc>
+    <lastmod>2018-09-03T21:11:08+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://khairulanuar.io.s3-website-ap-northeast-1.amazonaws.com/blog/</loc>
+    <lastmod>2018-09-03T21:11:01+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://khairulanuar.io.s3-website-ap-northeast-1.amazonaws.com/tutorial/first/</loc>
+    <lastmod>2018-09-03T11:18:23+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://khairulanuar.io.s3-website-ap-northeast-1.amazonaws.com/blog/first/</loc>
+    <lastmod>2018-09-03T11:18:16+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://khairulanuar.io.s3-website-ap-northeast-1.amazonaws.com/post/my-first.post/</loc>
+    <lastmod>2018-09-01T12:24:08+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://khairulanuar.io.s3-website-ap-northeast-1.amazonaws.com/page/aboutme/</loc>
+  </url>
+  
+  <url>
+    <loc>http://khairulanuar.io.s3-website-ap-northeast-1.amazonaws.com/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://khairulanuar.io.s3-website-ap-northeast-1.amazonaws.com/</loc>
+    <lastmod>2018-09-03T11:18:23+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://khairulanuar.io.s3-website-ap-northeast-1.amazonaws.com/page/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://khairulanuar.io.s3-website-ap-northeast-1.amazonaws.com/post/</loc>
+    <lastmod>2018-09-01T12:24:08+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://khairulanuar.io.s3-website-ap-northeast-1.amazonaws.com/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
